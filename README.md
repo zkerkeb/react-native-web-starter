@@ -1,5 +1,9 @@
 # react-native-web-starter
 
+## Install pods
+
+```cd /ios && pod install ```
+
 ##Command
 
 Launch Ios app
