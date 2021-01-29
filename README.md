@@ -9,8 +9,8 @@
 Launch Ios app
 ```yarn run ios``` 
 
-Launch Android app`
-``yarn run android``` 
+Launch Android app
+```yarn run android``` 
 
-Launch Web app`
-``yarn web``` 
+Launch Web app
+```yarn web``` 
